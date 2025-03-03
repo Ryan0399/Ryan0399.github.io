@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jinghao Zhang's Personal Homepage"
+title                    : "Jinghao Zhang/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Jinghao Zhang"
 description              : &description "personal description"
-url                      : https://Ryan0399.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://Ryan0399.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ryan0399/Ryan0399.github.io"
 
