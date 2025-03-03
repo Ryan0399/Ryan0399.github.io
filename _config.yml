@@ -13,7 +13,7 @@ title                    : "Jinghao Zhang/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Jinghao Zhang"
 description              : &description "personal description"
-url                      : "https://Ryan0399.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://ryan0399.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ryan0399/Ryan0399.github.io"
 
@@ -28,7 +28,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "China Hefei"
   employer         : "University of Science and Technology of China"
-  uri              : "https://Ryan0399.github.io" # URL
+  uri              : "https://ryan0399.github.io" # URL
   email            : "jinghaozhang6@mail.ustc.edu.cn" 
 
   # Academic websites
