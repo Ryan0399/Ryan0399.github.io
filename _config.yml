@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 site_theme               : "default"
 title                    : "Jinghao Zhang/Personal Homepage"
 title_separator          : "-"
@@ -74,7 +74,6 @@ author:
   # xing             : # Username
   # youtube          : # Username
   # zhihu            : # Username
-  qq               : "907200440"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
