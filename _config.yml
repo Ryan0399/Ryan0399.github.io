@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 site_theme               : "default"
 title                    : "Jinghao Zhang/Personal Homepage"
 title_separator          : "-"
