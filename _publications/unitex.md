@@ -3,9 +3,10 @@ title: "UniTex: Single-chart texture reconstruction from multi-view images"
 collection: publications
 category: manuscripts
 permalink: /publication/unitex
+excerpt: 'UniTex reconstructs high‑fidelity single‑chart textures from multi‑view images using color‑aware cut generation, diffusion‑based novel views, and differentiable rendering.'
 date: 2026-04-21
 venue: 'June'
-paperurl: 'http://academicpages.github.io/files/1-s2.0-S0097849326000701-main.pdf'
+paperurl: 'http://Ryan0399.github.io/files/1-s2.0-S0097849326000701-main.pdf'
 citation: 'Husen Li, Dong Xiao, Jinghao Zhang, Renjie Chen. UniTex: Single-chart texture reconstruction from multi-view images. <i>Computers & Graphics</i>, vol. 137, 2026, article 104599. ISSN 0097-8493. https://doi.org/10.1016/j.cag.2026.104599'
 ---
 

@@ -10,17 +10,22 @@ redirect_from:
 {% include base_path %}
 
 Education
+
 ======
+
 * M.S. in Computational Geometry, University of Science and Technology of China, September 2024 - Present.
 * B.S. in Information and Computing Science, University of Science and Technology of China, September 2020 - July 2024.
 
 Teaching Assistant
-======
-* 2023FA, Operations Research, School of Mathematical Sciences, University of Science and Technology of China.
-* 2024FA, Function of Complex Variable B, School of Mathematical Sciences, University of Science and Technology of China.
 
-Honors and Awards
 ======
+
+* 2025FA, Function of Complex Variable B, School of Mathematical Sciences, University of Science and Technology of China.
+* 2024FA, Function of Complex Variable B, School of Mathematical Sciences, University of Science and Technology of China.
+* 2023FA, Operations Research, School of Mathematical Sciences, University of Science and Technology of China.
+
+<!-- Honors and Awards
+====== -->
 
 <!-- Work experience
 ======
@@ -40,11 +45,14 @@ Honors and Awards
   * Supervisor: Professor Git -->
   
 Skills
+
 ======
+
 * Language: proficiency in Python, Matlab.
 * Tool: proficiency in Latex, Git.
 
 Publications
+
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
