@@ -16,7 +16,7 @@ Education
 
 Teaching Assistant
 ======
-* 2025FA, Function of Complex Variable B, School of Mathematical Sciences, University of Science and Technology of China.
+* 2025FA, Function of Complex Variable A, School of Mathematical Sciences, University of Science and Technology of China.
 * 2024FA, Function of Complex Variable B, School of Mathematical Sciences, University of Science and Technology of China.
 * 2023FA, Operations Research, School of Mathematical Sciences, University of Science and Technology of China.
 
